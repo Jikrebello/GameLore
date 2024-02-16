@@ -1,14 +1,10 @@
-![[DALL·E 2024-02-01 23.47.24 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]
+![[GameLore/DALL·E 2024-02-01 23.47.01 - A shadowy figure, 'The Slumberer', an Idol of Sloth, is shown in a realm filled with the essence of forgotten dreams and apathy. This figure embodies .png]]
+
+![[GameLore/DALL·E 2024-02-01 23.47.11 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]
+
+![[GameLore/DALL·E 2024-02-01 23.47.17 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]![[DALL·E 2024-02-01 23.47.24 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]
 
 ![[DALL·E 2024-02-01 23.47.20 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]
-
-![[DALL·E 2024-02-01 23.47.17 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]
-
-![[DALL·E 2024-02-01 23.47.11 - A shadowy figure known as 'The Slumberer', an Idol of Sloth, is depicted in a twilight realm filled with the haze of forgotten dreams. This being embo.png]]
-
-![[DALL·E 2024-02-01 23.47.01 - A shadowy figure, 'The Slumberer', an Idol of Sloth, is shown in a realm filled with the essence of forgotten dreams and apathy. This figure embodies .png]]
-
-
 ### The Slumberer: Idol of Sloth
 
 #### Depiction in Art

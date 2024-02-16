@@ -1,9 +1,13 @@
-![[DALL·E 2024-02-01 23.32.39 - A shadowy figure known as The Coveter , embodying the theme of envy, with a unique dual-faced mask. One face shows a longing gaze, desiring what othe.png]]
+![[GameLore/DALL·E 2024-02-01 23.32.37 - A shadowy figure known as The Coveter , embodying the theme of envy, with a unique dual-faced mask. One face shows a longing gaze, desiring what othe.png]]
 
-![[DALL·E 2024-02-01 23.32.37 - A shadowy figure known as The Coveter , embodying the theme of envy, with a unique dual-faced mask. One face shows a longing gaze, desiring what othe.png]]
-![[DALL·E 2024-02-01 23.39.56 - A shadowy being known as _The Coveter,_ an Idol of Envy, is depicted with a unique dual-faced mask. One face shows a longing gaze, eyes fixed on treas.png]]
+![[GameLore/DALL·E 2024-02-01 23.32.39 - A shadowy figure known as The Coveter , embodying the theme of envy, with a unique dual-faced mask. One face shows a longing gaze, desiring what othe.png]]
 
-![[DALL·E 2024-02-01 23.39.47 - A shadowy being known as _The Coveter,_ an Idol of Envy, is depicted with a unique dual-faced mask. One face shows a longing gaze, eyes fixed on treas.png]]
+![[GameLore/DALL·E 2024-02-01 23.39.56 - A shadowy being known as _The Coveter,_ an Idol of Envy, is depicted with a unique dual-faced mask. One face shows a longing gaze, eyes fixed on treas.png]]
+
+
+
+
+![[GameLore/DALL·E 2024-02-01 23.39.47 - A shadowy being known as _The Coveter,_ an Idol of Envy, is depicted with a unique dual-faced mask. One face shows a longing gaze, eyes fixed on treas.png]]
 
 ### The Coveter: Idol of Envy
 

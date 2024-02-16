@@ -1,10 +1,8 @@
-![[DALL·E 2024-02-01 23.18.32 - An idol known as 'The Avarice,' a shadowy figure seated on a throne made of twisted gold and precious gems, in a realm filled with endless treasures. .png]]
-
+![[GameLore/DALL·E 2024-02-01 23.18.32 - An idol known as 'The Avarice,' a shadowy figure seated on a throne made of twisted gold and precious gems, in a realm filled with endless treasures. .png]]
 ![[DALL·E 2024-02-01 23.17.51 - An idol known as 'The Avarice,' a shadowy figure seated on a throne made of twisted gold and precious gems, in a realm filled with endless treasures.  1.png]]
-![[DALL·E 2024-02-01 23.19.07 - A shadowy figure known as 'The Avarice', depicted as an idol of greed, sits on a throne constructed from elaborate gold and encrusted with gems, in th.png]]
 
-![[DALL·E 2024-02-01 23.19.05 - A shadowy figure known as 'The Avarice', depicted as an idol of greed, sits on a throne constructed from elaborate gold and encrusted with gems, in th.png]]
-
+![[GameLore/DALL·E 2024-02-01 23.19.05 - A shadowy figure known as 'The Avarice', depicted as an idol of greed, sits on a throne constructed from elaborate gold and encrusted with gems, in th.png]]
+![[GameLore/DALL·E 2024-02-01 23.19.07 - A shadowy figure known as 'The Avarice', depicted as an idol of greed, sits on a throne constructed from elaborate gold and encrusted with gems, in th.png]]
 #### Depiction in Art
 - **Visual Majesty and Menace**: In artistic renditions, "The Avarice" is not just surrounded by wealth but is almost part of it. Their throne is crafted from twisted gold and precious gems, each piece telling a tale of avarice and downfall. The sly, knowing smile hints at the knowledge of the inevitable doom their boon brings to mortals. Shadows cast by the treasures create illusions of grandeur, but also foreboding, emphasizing the dual nature of wealth as both a desire and a trap.
 

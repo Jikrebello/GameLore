@@ -1,10 +1,10 @@
-![[DALL·E 2024-02-01 23.23.14 - A being known as 'The Fury', an idol of wrath, depicted as a warrior engulfed in flames, wielding a sword that crackles with destructive energy. Their.png]]
+![[GameLore/DALL·E 2024-02-01 23.23.12 - A being known as 'The Fury', an idol of wrath, depicted as a warrior engulfed in flames, wielding a sword that crackles with destructive energy. Their.png]]
+![[GameLore/DALL·E 2024-02-01 23.25.56 - Depict 'The Fury', an idol embodying wrath, as a formidable warrior shrouded in flames, with eyes that radiate a fierce, unyielding anger. This warrio.png]]
 
-![[DALL·E 2024-02-01 23.23.12 - A being known as 'The Fury', an idol of wrath, depicted as a warrior engulfed in flames, wielding a sword that crackles with destructive energy. Their.png]]
-![[DALL·E 2024-02-01 23.25.56 - Depict 'The Fury', an idol embodying wrath, as a formidable warrior shrouded in flames, with eyes that radiate a fierce, unyielding anger. This warrio.png]]
+![[GameLore/DALL·E 2024-02-01 23.23.14 - A being known as 'The Fury', an idol of wrath, depicted as a warrior engulfed in flames, wielding a sword that crackles with destructive energy. Their.png]]
 
-![[DALL·E 2024-02-01 23.25.58 - Depict 'The Fury', an idol embodying wrath, as a formidable warrior shrouded in flames, with eyes that radiate a fierce, unyielding anger. This warrio.png]]
 
+![[GameLore/DALL·E 2024-02-01 23.25.58 - Depict 'The Fury', an idol embodying wrath, as a formidable warrior shrouded in flames, with eyes that radiate a fierce, unyielding anger. This warrio.png]]
 
 ### The Fury: Idol of Wrath
 
