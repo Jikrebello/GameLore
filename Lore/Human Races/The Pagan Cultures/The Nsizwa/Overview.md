@@ -1,4 +1,4 @@
-### [[GameLore/Lore/Human Races/The Pagan Cultures/The Nsizwa/Origin]]
+### [[Origin]]
 
 The Nsizwa trace their origins back to a unifying leader, Nkosi Yempi, "The Warrior King," inspired by visions from The Fury and The Sovereign. Through military conquest and social reforms, he transformed disparate tribes into a formidable society. The Nsizwa name symbolizes unity and strength, embodying their rise from fragmented tribes to a powerful, cohesive nation.
 
@@ -26,7 +26,7 @@ The Nsizwa military is renowned for its discipline, strategic prowess, and the s
 
 Justice within the Nsizwa emphasizes restoration and communal harmony, with elders and chiefs mediating disputes. Severe transgressions are addressed through restitution, exile, or more severe forms of punishment such as being locked inside a hut with hungry jackals or hyenas until they are devoured and other grim and harsh punishments of death.
 
-### [[Religious Beliefs and Practices]]
+### [[GameLore/Lore/Human Races/The Pagan Cultures/The Nsizwa/Religious Beliefs and Practices]]
 
 Ancestor worship is central to the Nsizwa's spirituality, with rituals to honor and invoke ancestors for guidance, protection, and strength. The reverence for The Fury and The Sovereign integrates these Idols into a broader spiritual practice that includes gaining power via sacrifices to the ancestors in ancestral realm and the ingestion of muti, a herbal psychoactive that allows for the communion with the ancestors and to receive their strength for combat.
 
