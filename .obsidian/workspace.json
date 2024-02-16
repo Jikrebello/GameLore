@@ -1,0 +1,198 @@
+{
+  "main": {
+    "id": "4954f221bb35cf19",
+    "type": "split",
+    "children": [
+      {
+        "id": "fc6e13e18124bab0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "789a44e6a2968df3",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Lore/Human Races/The Nsizwa/Overview.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9d924c5decb21dff",
+    "type": "split",
+    "children": [
+      {
+        "id": "2abf3470bbed88bb",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "331c6d167c60b3d2",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "b8bced0da350f0f8",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f720566a96772b8d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "365c71d498af981d",
+    "type": "split",
+    "children": [
+      {
+        "id": "49a1fa266b50d084",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8cb42308a65503d8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Lore/Human Races/The Nsizwa/Overview.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "bf41b17b25239ce4",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Lore/Human Races/The Nsizwa/Overview.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "491df9503b8e8635",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "a4765c4e4dfb2156",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Lore/Human Races/The Nsizwa/Overview.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "789a44e6a2968df3",
+  "lastOpenFiles": [
+    "GameLore",
+    "Lore/Human Races/The Nsizwa/Origin.md",
+    "Lore/Human Races/The Nsizwa/Overview.md",
+    "Lore/Human Races/The Nsizwa/Cultural Expressions.md",
+    "Lore/Human Races/The Nsizwa/Culture and Society.md",
+    "Lore/Human Races/The Nsizwa/Location and Environment.md",
+    "Lore/Human Races/The Sancta Confoederatio/Origin.md",
+    "Lore/Human Races/The Nsizwa/Challenges and Conflicts.md",
+    "Lore/Human Races/The Nsizwa/Religious Beliefs and Practices.md",
+    "Lore/Human Races/The Nsizwa/Judicial System.md",
+    "Lore/Human Races/The Nsizwa/Military Organization.md",
+    "Lore/Human Races/The Nsizwa/Economy.md",
+    "Lore/Human Races/The Nsizwa/Political Structure.md",
+    "Lore/Realms/Overview.md",
+    "Lore/Human Races/The Nsizwa",
+    "Lore/Human Races/The Atherians/The Pantheon.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/Overview.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/Sanctum Sedes Divinitatis.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Borderlands/Archiducatus Aquilonis.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Borderlands/Ducatus Altus Silvarum.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Borderlands/Federatio Urbium Hanseatica.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Borderlands/Marchionatus Perditorum.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Heartlands/Comitatus Vinorum.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Heartlands/Liga Swabica.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Heartlands/Principatus Ferri et Carbonis.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Heartlands/Regnum Montis Aurei.md",
+    "Lore/Human Races/The Sancta Confoederatio/Local Powers/The Heartlands/Regnum Fluvialis.md",
+    "Lore/Human Races/The Atherians",
+    "Lore/The A",
+    "Lore/Prehistory/Giant Civilizations",
+    "Lore/Prehistory",
+    "Lore/Realms/Hell",
+    "Lore/Realms/Heaven",
+    "Lore/Realms/Elemental Realms",
+    "Lore/Realms/Mirror Realms",
+    "Lore/Realms",
+    "DALL·E 2024-02-02 23.24.18 - Visualize the Ahl-e-Ahd society, set in a desert oasis, without any text, showcasing their mastery of divine contract law and mystical practices. The .webp",
+    "DALL·E 2024-02-02 23.22.27 - Visualize the Ahl-e-Ahd society, set in a desert oasis, without any text, showcasing their mastery of divine contract law and mystical practices. The .webp",
+    "DALL·E 2024-02-02 23.22.23 - Visualize the Ahl-e-Ahd society, set in a desert oasis, without any text, showcasing their mastery of divine contract law and mystical practices. The .webp",
+    "DALL·E 2024-02-02 23.17.01 - Visualize a vibrant scene showcasing the unique culture of the Jirahar people, known for their dual lifestyle as Caravaners and Tower Dwellers. In the 1.webp",
+    "DALL·E 2024-02-02 23.17.04 - Visualize a vibrant scene showcasing the unique culture of the Jirahar people, known for their dual lifestyle as Caravaners and Tower Dwellers. In the 1.webp",
+    "DALL·E 2024-02-02 23.17.01 - Visualize a vibrant scene showcasing the unique culture of the Jirahar people, known for their dual lifestyle as Caravaners and Tower Dwellers. In the.webp",
+    "DALL·E 2024-02-02 23.17.04 - Visualize a vibrant scene showcasing the unique culture of the Jirahar people, known for their dual lifestyle as Caravaners and Tower Dwellers. In the.webp",
+    "DALL·E 2024-02-02 23.09.44 - Envision Celestius Firmamentum as a magnificent being stretching across the entire sky, embodying the sky's capricious nature. Their body blends into .webp",
+    "DALL·E 2024-02-02 23.09.47 - Envision Celestius Firmamentum as a magnificent being stretching across the entire sky, embodying the sky's capricious nature. Their body blends into .webp",
+    "DALL·E 2024-02-02 23.06.24 - Depict Marinus Flux as a majestic being, part human, part sea, embodying both the calm serenity of gentle waves and the tempestuous fury of a storm. H.webp"
+  ]
+}

@@ -1,0 +1,21 @@
+Expanding upon the roles and significance of the Great Prophets and Lesser Prophets within the context of your world, especially considering the monumental events surrounding the liberation of humans from the Giants, provides a rich narrative vein to explore. These figures are not only spiritual leaders but also pivotal agents of change, guided by divine will to influence the course of history.
+
+### The Great Prophets: Harbingers of Divine Will
+
+- **Divine Mandate**: The Great Prophets are chosen by The Lord or His highest archangels during times of great need. Their selection is marked by significant omens or miraculous events, underscoring their roles as instruments of divine purpose. These individuals are often characterized by their unwavering faith, moral integrity, and the capacity to endure trials and tribulations for the sake of their divine mission.
+- **Historical Impact**: Each Great Prophet arises at a critical juncture, tasked with addressing a specific challenge or injustice that threatens the balance between good and evil. For instance, the liberation of humans from the Giants was facilitated by a Great Prophet, who, through divine guidance, orchestrated the downfall of the Giants and led humanity into a new era of freedom and self-determination.
+- **Legacies and Teachings**: The teachings and actions of the Great Prophets are preserved in sacred texts, oral traditions, and the collective memory of the faithful. These legacies serve as guiding lights for future generations, embodying the principles of courage, faith, and the pursuit of justice. Their lives are often commemorated through festivals, rituals, and the naming of sacred sites in their honor.
+
+### The Lesser Prophets: Voices of Guidance and Wisdom
+
+- **Subtle Revelation**: Unlike the direct revelations received by the Great Prophets, Lesser Prophets are inspired through more subtle means. This divine inspiration may come in the form of dreams, visions, or an intuitive understanding of the natural order and the will of The Lord. These experiences, though less dramatic, are no less significant in guiding the faithful and interpreting the divine will.
+- **Community Roles**: Lesser Prophets often emerge as spiritual leaders within their communities, advising on matters of faith, morality, and the interpretation of omens and signs. They are the shepherds of their people, guiding them through everyday challenges and ensuring the continuity of spiritual practices and traditions.
+- **Intercessors and Mediators**: In times of conflict or uncertainty, Lesser Prophets act as intercessors between the divine and the mundane. They mediate disputes, offer counsel based on divine principles, and perform rituals to seek guidance or appeasement from the higher powers. Their wisdom and connection to the divine make them respected figures within their societies.
+
+### Integration with the Larger Narrative
+
+- **Guiding Humanity's Evolution**: Both Great and Lesser Prophets play crucial roles in guiding the spiritual and moral evolution of humanity. Following the era of the Giants, their teachings helped shape the emerging human civilizations, laying the foundations for a world where humans could thrive free from tyranny.
+- **Catalysts for Change**: Prophets are often at the forefront of movements for change, whether leading rebellions against oppressors, as in the case of the Giants, or advocating for social and spiritual reforms. Their divine mandate lends authority to their actions, inspiring others to follow their lead.
+- **Bridge Between the Divine and Mortal**: The Prophets serve as a vital link between The Lord (and His Choir) and humanity. They embody the possibility of direct communication with the divine, reinforcing the belief that The Lord is actively involved in the affairs of the world and cares for the well-being of creation.
+
+In essence, the Great and Lesser Prophets are integral to the tapestry of your world's history and spiritual life. They are the bearers of divine truth, agents of change, and embodiments of the hope that, even in the darkest times, the light of The Lord guides the way forward.
