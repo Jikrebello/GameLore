@@ -38,7 +38,7 @@ The orphanage that eventually became his reluctant home was a place of stark con
 
 #### The Mentorship of a Hospitaller
 
-Aldric's life took a pivotal turn when **Brother Matthias**, a knight of the **Hospitallers Divinae**, found him during one of the order's outreach missions to aid the city's impoverished. Recognizing the boy's innate bravery and his yearning for a purpose beyond survival, Matthias offered Aldric a chance at a new life within the order.
+Aldric's life took a pivotal turn when **Brother Matthias**, a knight of the **[[Hospitallers Divinae]]**, found him during one of the order's outreach missions to aid the city's impoverished. Recognizing the boy's innate bravery and his yearning for a purpose beyond survival, Matthias offered Aldric a chance at a new life within the order.
 
 Under Matthias's guidance, Aldric flourished. He traded the shadows of thievery for the discipline of martial training and the teachings of the Hospitallers. Matthias became more than a mentor; he was the father figure Aldric had always lacked, instilling in him the values of courage, compassion, and devotion to a higher cause.
 
@@ -58,14 +58,14 @@ Aldric's path to the Debtor's Corp was paved with his continued attempts to make
 
 The terms of his service are unique: for every mission that aligns with the virtues of the Hospitallers—protecting the innocent, aiding the impoverished, vanquishing darkness—he earns redemption. Each act of service is a step towards repaying his debt of honor, a chance to restore his name and perhaps, one day, regain his place among the Hospitallers or find peace with his past.
 
-### Conclusion
+#### Conclusion
 
 Sir Aldric's journey from orphan to knight, from disgrace to redemption, encapsulates the complex interplay of fate, choice, and the quest for forgiveness. Within the Debtor's Corp, he finds a new battlefield where his skills, both martial and magical, can serve a greater good. Yet, his deepest battle is within, fighting against the shadows of his past to reclaim his honor and forge a new destiny.
 
 ---
 ### Emeric the Reluctant Bandit
 
-**Emeric**, once a notorious highwayman of the **Archiducatus Aquilonis**, led a life shadowed by the thrill of the heist and the clink of stolen gold. Known for his dexterity with both dagger and gunpowder shot pistol, Emeric's name became whispered in fear along the mountain paths, a ghost in the fog for those wealthy enough to attract his attention. Yet, beneath the mask of the bandit, Emeric operated with a code: theft over death, unless cornered. This principle guided his hand, sparing those he robbed from harm, a small mercy in the ruthless world he navigated.
+**Emeric**, once a notorious highwayman of the **[[Archiducatus Aquilonis]]**, led a life shadowed by the thrill of the heist and the clink of stolen gold. Known for his dexterity with both dagger and gunpowder shot pistol, Emeric's name became whispered in fear along the mountain paths, a ghost in the fog for those wealthy enough to attract his attention. Yet, beneath the mask of the bandit, Emeric operated with a code: theft over death, unless cornered. This principle guided his hand, sparing those he robbed from harm, a small mercy in the ruthless world he navigated.
 
 #### The Fateful Heist
 
@@ -86,10 +86,10 @@ In the Debtor's Corp, Emeric finds a new identity, one forged in the pursuit of 
 #### Skills and Contributions
 
 - **Dagger and Pistol**: Emeric's proficiency in close combat and ranged attacks makes him a versatile member of the Corp, capable of taking on varied roles in their missions.
-- **Mountain Knowledge**: Having lived his life in the rugged terrain of the **Archiducatus Aquilonis**, Emeric's intimate knowledge of mountain paths and hideouts proves invaluable for the Corp's operations in similar environments.
+- **Mountain Knowledge**: Having lived his life in the rugged terrain of the **[[Archiducatus Aquilonis]]**, Emeric's intimate knowledge of mountain paths and hideouts proves invaluable for the Corp's operations in similar environments.
 - **Guile and Stealth**: Years of evading capture have honed Emeric's stealth, making him an expert in infiltration and espionage, skills that align well with the Corp's need for discretion in sensitive missions.
 
-### Conclusion
+#### Conclusion
 
 Emeric's journey from a highwayman haunted by guilt to a member of the Debtor's Corp seeking redemption encapsulates the transformative power of remorse and the relentless pursuit of a second chance. In the shadowy world of the Corp, Emeric battles not just external foes but the internal specter of his past, striving to prove that even those who have faltered can find a path back to the light.
 
@@ -118,7 +118,7 @@ In the Corp, Zara's destructive capabilities find a new purpose. She becomes a k
 
 - **The Warlock's Burden**: Despite her effectiveness, Zara struggles with the knowledge that her powers, once a source of pride, are now leashed to the will of the Fraternitas. Her journey within the Corp is one of redemption, seeking to balance the scales for her past mistakes while searching for a path to regain her freedom.
 
-### Conclusion:
+#### Conclusion
 
 Zara's integration into the Debtor's Corp highlights the complex nature of power and responsibility. Her story explores the theme of redemption through service, as she uses her formidable warlock abilities not for personal gain but for the protection and aid of others. Within the ranks of the Corp, Zara finds a semblance of atonement, her elemental magic serving as both a weapon against darkness and a tool for her own liberation from the chains of debt and manipulation.
 
@@ -157,7 +157,7 @@ Zafir's induction into the Debtor's Corp marked a new chapter in his life, one o
 
 - **Reluctant Ally**: Despite his circumstances, Zafir's contributions to the Corp are invaluable. His infernal allies wreak havoc on their foes, and his knowledge of contracts proves useful in navigating the complex legalities they encounter.
 
-### Conclusion:
+#### Conclusion
 
 Zafir's story is a tale of ambition ensnared by greater ambition, of power bound by the very contracts that granted it. In the Debtor's Corp, he walks a fine line between servitude and the pursuit of personal agency, his every action shadowed by the chains of his past decisions. Yet, even in chains, Zafir remains a formidable force, a Chainmaster biding his time, waiting for the moment he can turn the tables on those who would use him as their weapon.
 
@@ -166,7 +166,7 @@ Zafir's story is a tale of ambition ensnared by greater ambition, of power bound
 
 **Background:**
 
-Joran hails from the formidable Ättar tribes, born under the sign of the Wolf Totem. From a young age, Joran exhibited the innate traits of his totem—exceptional endurance, heightened senses, and an unbreakable spirit. His life, deeply rooted in the traditions of his people, was one of harmony with the untamed forests of the southern wilds and unwavering devotion to Lunara Noctis.
+Joran hails from the formidable [[Ättar]] tribes, born under the sign of the Wolf Totem. From a young age, Joran exhibited the innate traits of his totem—exceptional endurance, heightened senses, and an unbreakable spirit. His life, deeply rooted in the traditions of his people, was one of harmony with the untamed forests of the southern wilds and unwavering devotion to [[Lunara Noctis]].
 
 #### The Call of the Skinwalker:
 
@@ -194,7 +194,7 @@ In the Debtor's Corp, Joran finds himself in a strange land, fighting battles fa
 
 - **The Quest for Liberation**: Joran's ultimate goal is to free himself from the Fraternitas's control, to return to his tribe not as a servant of distant masters but as a protector, fully in command of his destiny and powers.
 
-### Conclusion:
+#### Conclusion
 
 Joran's story is a poignant tale of sacrifice, duty, and the struggle for autonomy against the backdrop of mystical bonds and the machinations of power. As a wolf skinwalker of the Ättar, his journey through the ranks of the Debtor's Corp speaks to the resilience of the human spirit and the lengths to which one will go to protect home and heritage, even when faced with the erosion of self. In the Corp, he is a symbol of fierce loyalty and the haunting cost of power, a warrior caught between worlds, fighting for a freedom that seems as elusive as the moon's embrace.
 
@@ -203,11 +203,11 @@ Joran's story is a poignant tale of sacrifice, duty, and the struggle for autono
 
 **Background:**
 
-Einar grew up in the verdant expanses of **Ducatus Altus Silvarum**, a land where the ancient forests whisper secrets of old and the spirits roam free. From a young age, he was inducted into the elite ranger corps, a prestigious cadre tasked with safeguarding the duchy from both the seen and unseen threats that lurk within the shadows of the towering trees. Einar excelled in his duties, his affinity with the forest and its creatures unmatched, earning him respect among his peers and the people of the duchy.
+Einar grew up in the verdant expanses of **[[Ducatus Altus Silvarum]]**, a land where the ancient forests whisper secrets of old and the spirits roam free. From a young age, he was inducted into the elite ranger corps, a prestigious cadre tasked with safeguarding the duchy from both the seen and unseen threats that lurk within the shadows of the towering trees. Einar excelled in his duties, his affinity with the forest and its creatures unmatched, earning him respect among his peers and the people of the duchy.
 
 #### The Fall:
 
-Despite his outward conformity to the rituals and beliefs sanctioned by the Sanctum Sedes Divinitatis, Einar harbored a deep reverence for the Menhir, the ancient spirits of the land his ancestors once openly worshipped. This clandestine devotion was eventually uncovered, leading to his public disgrace and exile. Stripped of his rank and separated from his home, Einar faced a future bleak and devoid of purpose.
+Despite his outward conformity to the rituals and beliefs sanctioned by the [[Sanctum Sedes Divinitatis]], Einar harbored a deep reverence for the Menhir, the ancient spirits of the land his ancestors once openly worshipped. This clandestine devotion was eventually uncovered, leading to his public disgrace and exile. Stripped of his rank and separated from his home, Einar faced a future bleak and devoid of purpose.
 
 #### A Pact with the Fraternitas Argentarius:
 
@@ -227,7 +227,7 @@ Within the ranks of the Debtor's Corp, Einar finds a semblance of the camaraderi
 
 - **A Quest for Redemption**: Einar's journey is one of redemption, not just in the eyes of society, but in reconciling his duty to the Fraternitas with his unwavering loyalty to the ancient spirits of the land. His ultimate goal is to find a way to restore his honor and perhaps, one day, return to his homeland not as an exile, but as a protector once more.
 
-### Conclusion:
+#### Conclusion
 
 Einar's tale is one of conflict and duality, a man torn between his past and his present, his sacred oaths to the land, and the pragmatic bonds of debt that now chain him. In the shadows of the great forests in Grenzmark, he walks a thin line, a guardian still at heart, serving new masters yet never forgetting the call of the ancient woods. His story within the Debtor's Corp is a testament to the resilience of the human spirit and the enduring power of faith, even in the face of exile and loss.
 
@@ -236,7 +236,7 @@ Einar's tale is one of conflict and duality, a man torn between his past and his
 
 **Background:**
 
-**Valtor** was once a renowned alchemist, celebrated across the **Principatus Ferri et Carbonis** for his groundbreaking discoveries and unparalleled skill in transmutation and medicinal concoctions. His talents not only brought him fame but also the attention of the **Fraternitas Argentarius**, who saw in him an asset too valuable to be left untethered. Valtor's pursuit of a legendary elixir—a concoction rumored to grant unparalleled healing abilities—became the linchpin in the Fraternitas's scheme.
+**Valtor** was once a renowned alchemist, celebrated across the **[[Principatus Ferri et Carbonis]]** for his groundbreaking discoveries and unparalleled skill in transmutation and medicinal concoctions. His talents not only brought him fame but also the attention of the **[[Fraternitas Argentarius]]**, who saw in him an asset too valuable to be left untethered. Valtor's pursuit of a legendary elixir—a concoction rumored to grant unparalleled healing abilities—became the linchpin in the Fraternitas's scheme.
 
 #### The Scheme:
 
@@ -256,7 +256,7 @@ With no way to repay his debt and his work now property of the Fraternitas, Valt
 
 - **The Alchemist's Role**: In the Corp, Valtor finds a new application for his skills, supporting his comrades through his alchemy and gaining a reputation as the "Miracle Worker" for his life-saving potions. Yet, beneath his calm demeanor simmers a resentment and a desire for revenge against the Fraternitas for their betrayal.
 
-### Conclusion:
+#### Conclusion
 
 Valtor's story is a cautionary tale about the perils of naivety in the face of ambition and the lengths to which the powerful will go to harness skills they covet. In the Debtor's Corp, he walks the fine line between servitude and the pursuit of personal redemption, his alchemical talents now serving the needs of many rather than the greed of the few. Each mission with the Corp brings him closer to understanding the true value of his gifts, even as he plots to reclaim his freedom and legacy from the clutches of the Fraternitas.
 
@@ -287,12 +287,12 @@ Gideon's right eye, concealed beneath an eyepatch, is one of the most potent art
 
 The cold war Gideon plays with his fellow Fraternitas founders spans continents and centuries. Each move and countermove is part of a larger strategy, with the Duchy of Grenzmark becoming the latest battleground in their quest for supremacy. Gideon's search for ancient artifacts is driven by the belief that within these relics lies the power not only to dominate his rivals but to shape the future of the Fraternitas—and perhaps the world itself.
 
-### Conclusion:
+#### Conclusion
 
 Gideon's character is a complex tapestry of warrior, strategist, and guardian. His deep ties to the Jirahar culture, combined with the mystical enhancements and the burdens they bring, paint a picture of a man caught between worlds. His actions within the Debtor's Corp, while serving the immediate goals of the Fraternitas, are also steps in a personal quest for power, redemption, and ultimately, a legacy that will endure beyond the sands of time. As Festungshalt braces against the shadows, Gideon moves among them, a specter of the past seeking to forge the future in his image.
 
 ---
-### Thorn the Exiled Bard: A Tapestry of Music and Shadows
+### Thorn the Exiled Bard
 
 #### Background and Exile
 Thorn, born into the vibrant yet tumultuous world of the Jirahar Rogue Clans, was a prodigy in the art of bardic magic and storytelling. His early years were marked by a nomadic life, filled with the rich oral traditions of his people and the clandestine activities of his clan. Thorn's natural charisma and talent for music quickly made him a beloved figure among the Jirahar and beyond.
@@ -342,7 +342,7 @@ This character, grounded in the rich cultural tapestry and martial tradition of 
 
 ---
 
-### Bayar the Horse Archer
+### Bayar the Packmaster
 
 #### Background
 Bayar grew up roaming the vast steppes with his tribe, mastering the art of horseback archery and embracing the nomadic lifestyle of his people. Known for his exceptional skill and bravery, he was a respected member of his tribe's military force, embodying the Tarkhan virtues of honor, loyalty, and freedom.
@@ -384,3 +384,27 @@ Bayar's story becomes a testament to resilience, adaptability, and the enduring 
 Bayar's journey with the Debtor's Corp is one of redemption, as he seeks to atone for the unintended consequences of his actions and to understand the broader conflicts that now shape his destiny. His story is a compelling exploration of the clash between traditional nomadic values and the complex, often murky world of debt and obligation. As Bayar navigates this new life, he holds onto the hope of reclaiming his freedom and reuniting with his tribe, bringing with him the lessons and strengths gained from his time among the Debtors.
 
 ---
+### Lucan: The Vineyard's Misfit
+
+#### Background and Personality
+**Lucan** hails from a family with generations rooted in winemaking, known for a modest but proud vineyard that has produced quality wines for the local market. Unlike his kin, who possess an innate grace and diplomacy, Lucan has always been more straightforward and pragmatic, often finding the elaborate social dances of his homeland perplexing and unnecessary.
+
+Lucan's lack of subtlety and his direct approach to communication led to several failed business ventures and social faux pas, culminating in a series of unfortunate deals that nearly bankrupted his family's vineyard. Burdened with guilt and debt, he saw enlistment in the Debtor's Corp not as a punishment but as a refuge—a place where clarity of purpose and direct action are valued over social maneuvering.
+
+#### Life in the Debtor's Corp
+In the Corp, Lucan has found a sense of belonging that eluded him in **[[Comitatus Vinorum]]**. The straightforward nature of military life, where orders are to be followed and objectives are clear, suits him well. He excels on the battlefield, where his focus and ability to see clarity amid the chaos of battle make him a proficient swordsman and shield-bearer. His directness, often a liability in his previous life, becomes an asset in the planning and executing missions.
+
+Despite his adaptation to and preference for life in the Corp, Lucan harbors a deep-seated fear of his eventual return to **[[Comitatus Vinorum]]**. The thought of re-entering a society where he never quite fit in, with its intricate social cues and expectations, fills him with dread. He worries about how he will reintegrate and whether he can avoid the mistakes that led him to his current situation.
+
+#### Skills and Abilities
+- **Combat Proficiency**: Lucan is skilled with a sword and shield, having honed his abilities in the Corp. His style is direct and efficient, mirroring his personality.
+- **Tactical Understanding**: His straightforward approach allows him to see through the chaos of battle and make quick, effective decisions.
+- **Physical Conditioning**: Life in the Corp has further toughened Lucan, making him resilient and enduring in the face of physical challenges.
+
+#### Fears and Hopes
+- **Fear of Return**: Lucan dreads the end of his tenure in the Corp, fearing a return to a society where he feels out of place.
+- **Hope for Acceptance**: Deep down, Lucan hopes to find a way to bridge his two worlds, bringing some of the directness and clarity he values in the Corp back to his life in **Comitatus Vinorum**.
+- **Desire for Redemption**: He wishes to redeem himself in the eyes of his family and community, proving that his direct nature can be a strength, not just a source of trouble.
+
+### Conclusion
+Lucan's journey from the vineyards of **Comitatus Vinorum** to the ranks of the Debtor's Corp highlights themes of belonging, identity, and the search for a place where one's innate qualities are valued. His story offers a contrast to the more typical narratives of debt and duty, focusing instead on the personal growth and self-acceptance of an individual caught between two very different worlds.
