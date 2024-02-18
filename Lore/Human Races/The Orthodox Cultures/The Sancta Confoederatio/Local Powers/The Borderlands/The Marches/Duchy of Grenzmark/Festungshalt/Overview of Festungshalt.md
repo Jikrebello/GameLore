@@ -36,11 +36,11 @@
     
 5. **[[The Lord’s Keep]]**: Situated at the highest point within Festungshalt, the Keep is a fortress within a fortress. It serves as the seat of governance and a last refuge in times of siege, embodying the strength and resilience of the city's rulers.
     
-6. **[[The Watchtowers]] of Vigilance**: Positioned along the Great Walls, these towers are equipped with both mundane and magical means of detection, guarding against any threat from the wilds beyond.
+6. **The Watchtowers of Vigilance**: Positioned along the Great Walls, these towers are equipped with both mundane and magical means of detection, guarding against any threat from the wilds beyond.
     
-7. **[[The Lakegate]]**: A massive fortified gate controlling access to the city from the Lake of Echoes, crucial for defense and the regulation of trade.
+7. **The Lakegate**: A massive fortified gate controlling access to the city from the Lake of Echoes, crucial for defense and the regulation of trade.
 
-#### The Lake of Echoes and The Great Walls
+#### The Lake of Echoes and [[The Great Walls]]
 
 - **The Lake of Echoes**: Bordering Festungshalt, this natural wonder serves both as a defense and a resource, supporting fishing and trade. The lake's mysteries and beauty are integral to the city's identity.
 
