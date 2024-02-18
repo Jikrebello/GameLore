@@ -229,14 +229,14 @@ Within the ranks of the Debtor's Corp, Einar finds a semblance of the camaraderi
 
 ### Conclusion:
 
-Einar's tale is one of conflict and duality, a man torn between his past and his present, his sacred oaths to the land, and the pragmatic bonds of debt that now chain him. In the shadows of the great forests of **Ducatus Altus Silvarum**, he walks a thin line, a guardian still at heart, serving new masters yet never forgetting the call of the ancient woods. His story within the Debtor's Corp is a testament to the resilience of the human spirit and the enduring power of faith, even in the face of exile and loss.
+Einar's tale is one of conflict and duality, a man torn between his past and his present, his sacred oaths to the land, and the pragmatic bonds of debt that now chain him. In the shadows of the great forests in Grenzmark, he walks a thin line, a guardian still at heart, serving new masters yet never forgetting the call of the ancient woods. His story within the Debtor's Corp is a testament to the resilience of the human spirit and the enduring power of faith, even in the face of exile and loss.
 
 ---
 ### Valtor, The Ensnared Alchemist
 
 **Background:**
 
-**Valtor** was once a renowned alchemist, celebrated across the **Archiducatus Aquilonis** for his groundbreaking discoveries and unparalleled skill in transmutation and medicinal concoctions. His talents not only brought him fame but also the attention of the **Fraternitas Argentarius**, who saw in him an asset too valuable to be left untethered. Valtor's pursuit of a legendary elixir—a concoction rumored to grant unparalleled healing abilities—became the linchpin in the Fraternitas's scheme.
+**Valtor** was once a renowned alchemist, celebrated across the **Principatus Ferri et Carbonis** for his groundbreaking discoveries and unparalleled skill in transmutation and medicinal concoctions. His talents not only brought him fame but also the attention of the **Fraternitas Argentarius**, who saw in him an asset too valuable to be left untethered. Valtor's pursuit of a legendary elixir—a concoction rumored to grant unparalleled healing abilities—became the linchpin in the Fraternitas's scheme.
 
 #### The Scheme:
 
@@ -265,11 +265,11 @@ Valtor's story is a cautionary tale about the perils of naivety in the face of a
 
 **Early Life and Induction into the Fraternitas:**
 
-Gideon's journey began within the vibrant culture of the Jirahar, raised amidst the moving caravans and the towering spires of the Harbour Towers. From a young age, he exhibited an innate understanding of the Jirahar's dual nature, seamlessly blending the nomadic spirit with the communal solidarity of tower life. His prowess in crafting and strategy quickly caught the eye of the Fraternitas Argentarius, who saw in him not just a skilled warrior but a potential leader and visionary.
+Gideon's journey began within the vibrant culture of the Jirahar, raised amidst the moving caravans and the towering spires of the Harbour Towers. From a young age, he exhibited an innate understanding of the Jirahar's dual nature, seamlessly blending the nomadic spirit with the communal solidarity of tower life. His prowess in crafting and strategy quickly caught the eye of the future founders of the Fraternitas Argentarius, who saw in him not just a skilled warrior but a potential leader and visionary.
 
 **The Founding of the Fraternitas:**
 
-Unknown to many, Gideon played a crucial role in the foundational days of the Fraternitas. His insights into trade routes, negotiation tactics, and defensive strategies were instrumental in establishing the organization's early influence. The pact he made with the other founders was sealed with powerful magics, including the imbuing of his right eye with artifacts of ancient origin, granting him abilities far beyond the ken of ordinary mortals.
+Unknown to many, Gideon played a crucial role in the foundational days of the Fraternitas. His insights into trade routes, negotiation tactics, and defensive strategies were instrumental in establishing the organization's early influence. The pact he made with the other founders was sealed with powerful magics, including sacrifice of his right eye and replacing it with an artifact of ancient origin, granting him abilities far beyond the ken of ordinary mortals.
 
 **Life Prolonged by Magic:**
 
@@ -315,8 +315,72 @@ Amidst his duties, Thorn continues to compose, each new piece a step toward the 
 Thorn the Exiled Bard is a character of contrasts: a gifted artist turned spy, a celebrated performer now cloaked in notoriety. His journey with the Debtor's Corp is one of redemption, seeking to reclaim his honor through the very skills that led to his downfall. As he navigates the dangerous world of the Corp, Thorn's story is a melody of resilience, betrayal, and the unyielding power of art.
 
 ---
+### Sizwe the Swift
 
+#### Background
+Sizwe, hailing from the expansive savannas of the Nsizwa nation, was renowned for his speed and agility as part of the elite Impi regiment. A skilled warrior, he was deeply connected to his ancestors, drawing upon their strength in battle, which granted him not only physical prowess but also the ability to invoke minor protective enchantments and bursts of speed beyond human limits.
 
+#### Encounter with the Fraternitas
+During a particularly brutal engagement against a rival faction, Sizwe's regiment stumbled upon a hidden cache of artifacts, among them an ancient relic claimed to be of significant power. Unbeknownst to Sizwe, this relic was of great interest to the Fraternitas Argentarius, who had long sought it for its purported magical properties.
 
+Seeing an opportunity, the Fraternitas approached Sizwe under the guise of diplomats, offering to settle his family's debts—incurred during a season of poor harvests—in exchange for the relic. Sizwe, bound by duty and honor to his family and tribe, reluctantly agreed, not fully understanding the extent of the deal he was entering into.
 
+#### Induction into the Debtor's Corp
+The transaction, however, was a ruse by the Fraternitas to bring Sizwe under their influence. The "debt" was artificially inflated, and the terms of repayment were impossible to meet by conventional means. Sizwe was coerced into joining the Debtor's Corp as a means to repay his newfound debt, his unique skills and ancestral connections making him an invaluable asset to the organization.
 
+Within the Corp, Sizwe became known as "Sizwe the Swift," a nod to his unmatched speed and agility. He specializes in reconnaissance missions, using his ancestral magic to evade detection and protect his comrades. Despite his initial reluctance, Sizwe has found a new sense of purpose within the Corp, viewing his service as a means to provide and protect his family, with a percentage of his jobs cut going to his family and tribe back home.
+
+#### Abilities
+- **Ancestral Speed**: Can channel the spirits of his ancestors to perform bursts of speed, making him virtually untouchable in short distances.
+- **Protective Enchantments**: Uses ancestral magic to cast shields around himself and allies, absorbing or deflecting minor magical and physical attacks.
+- **Reconnaissance Expert**: With his speed and keen senses honed on the savannas, Sizwe excels in gathering intelligence, scouting enemy positions and rush down tactics meant to shock and break enemy formations.
+
+#### Role and Future
+As one of the Debtor's Corp's most effective operatives, Sizwe grapples with his allegiance to his new comrades and his longing for the lands of the Nsizwa. His story is one of conflict, between duty to family, the obligations imposed by the Fraternitas, and a growing sense of loyalty to his fellow Debtors. As the political and magical intrigues of the Debtor's Corp unfold, Sizwe's unique abilities and connection to his heritage will play a crucial role in the challenges and battles to come.
+
+This character, grounded in the rich cultural tapestry and martial tradition of the Nsizwa, offers a unique perspective on the struggles and complexities of serving in the Debtor's Corp, bridging the worlds of ancestral magic and the mercenary life.
+
+---
+
+### Bayar the Horse Archer
+
+#### Background
+Bayar grew up roaming the vast steppes with his tribe, mastering the art of horseback archery and embracing the nomadic lifestyle of his people. Known for his exceptional skill and bravery, he was a respected member of his tribe's military force, embodying the Tarkhan virtues of honor, loyalty, and freedom.
+
+#### Encounter with the Fraternitas
+Bayar's life changed when his tribe clashed with a neighboring state, which had been covertly armed by the Fraternitas Argentarius. During the conflict, Bayar captured a valuable enemy officer who, unbeknownst to him, was closely associated with the Fraternitas. Seeing an opportunity, the Fraternitas approached Bayar with an offer: his prisoner's life for a substantial sum of gold. Driven by the immediate needs of his tribe, Bayar agreed, unwittingly indebting himself to the Fraternitas.
+
+#### Induction into the Debtor's Corp
+The gold Bayar received was cursed, a fact he discovered only when his tribe suffered a series of misfortunes. Seeking to reverse the curse, Bayar sought out the Fraternitas, only to learn that the only way to do so was to serve in their Debtor's Corp. With a heavy heart, Bayar left his tribe, vowing to return once his debt was paid and the curse lifted.
+
+#### Skills and Abilities
+- **Horseback Archery**: Bayar's mastery of archery from horseback makes him a formidable scout and skirmisher, capable of striking swiftly and evading retaliation.
+- **Tactical Acumen**: His nomadic upbringing gives Bayar a unique understanding of terrain and mobility, enhancing his effectiveness in hit-and-run tactics and reconnaissance.
+- **Spiritual Connection**: Raised with the Tarkhan's animistic beliefs, Bayar possesses a deep connection to the spirits of the land and sky, granting him insights and protection in his endeavors.
+
+#### Adaptability in Combat
+While Bayar excels in horseback archery, emblematic of his Tarkhan heritage, he is equally adept in ground combat, particularly in terrains where horses may not be practical. His deep connection with the natural world extends to his partnership with a pack of steppe hunting dogs, bred for their agility, ferocity, and loyalty.
+
+#### The Pack of Steppe Hunting Dogs
+- **Breed Characteristics**: The dogs, resembling a mix of the modern-day Taigan and Tibetan Mastiffs breeds, known for their speed, endurance, and ability to work in harsh conditions, making them perfect companions for a warrior like Bayar.
+- **Tactical Use**: Bayar utilizes his dogs not just for tracking and flushing out enemies but also as integral participants in combat. They are trained to harry, distract opponents and with the bigger dogs pin down and maul enemies, allowing Bayar to use his bow and arrows or short sword to dispatch enemies swiftly and efficiently.
+- **Bond and Communication**: Bayar shares a deep bond with his dogs, developed through mutual respect and understanding. He communicates with them through a series of whistles and hand signals, a language born of their shared experiences in the wilds of the steppe.
+
+#### Combat Strategy Without Horses
+In environments unsuited to cavalry, such as dense forests or rugged mountainous terrain, Bayar and his dogs become a formidable ground force. He adapts his tactics to the environment, using the terrain to his advantage, setting up ambushes, and leveraging the natural hunting instincts of his dogs.
+
+- **Bow and Arrow**: Even on foot, Bayar's proficiency with the bow remains unmatched. He can unleash a rapid succession of accurate shots, covering his and his dogs' advance or retreat.
+- **Short Sword**: For close combat, Bayar relies on a short sword, ideal for quick, lethal strikes. Its design is influenced by Tarkhan craftsmanship, optimized for balance, speed, and versatility in conjunction with his archery.
+
+#### Role in the Debtor's Corp
+Bayar's unique skill set, augmented by his steppe hunting dogs, makes him an asset in a variety of missions undertaken by the Debtor's Corp. His ability to adapt to different combat scenarios, coupled with his tactical ingenuity, earns him a reputation as a versatile and effective squad leader. His missions often involve deep reconnaissance, sabotage, or targeted strikes in territories where conventional forces would struggle.
+
+#### Continuing Journey and Challenges
+Bayar's adaptation to different environments and his reliance on both his Tarkhan skills and his loyal pack of hunting dogs underscore his journey within the Debtor's Corp. As he seeks to fulfill his obligations and secure his freedom, Bayar faces challenges that test not only his combat prowess but also his ability to maintain the bonds with his canine companions amidst the Corp's demanding and often dangerous assignments.
+
+Bayar's story becomes a testament to resilience, adaptability, and the enduring connection between a warrior and the natural allies that stand by his side. His journey with the Debtor's Corp is marked by a relentless pursuit of redemption, not just for himself, but also for the faithful pack that accompanies him through every trial.
+
+#### Future Prospects
+Bayar's journey with the Debtor's Corp is one of redemption, as he seeks to atone for the unintended consequences of his actions and to understand the broader conflicts that now shape his destiny. His story is a compelling exploration of the clash between traditional nomadic values and the complex, often murky world of debt and obligation. As Bayar navigates this new life, he holds onto the hope of reclaiming his freedom and reuniting with his tribe, bringing with him the lessons and strengths gained from his time among the Debtors.
+
+---

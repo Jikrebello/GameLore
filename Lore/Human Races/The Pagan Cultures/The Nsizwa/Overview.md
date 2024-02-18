@@ -20,13 +20,13 @@ The economy centers around agriculture, cattle rearing, and the trade of colored
 
 ### [[Military Organization]]
 
-The Nsizwa military is renowned for its discipline, strategic prowess, and the spiritual empowerment of its warriors. Military training incorporates rituals to summon ancestral strength, reflecting the belief in the ancestors' presence and guidance in combat. Regiments are organized by age groups and led by distinguished warriors. The Nsizwa hegemony is primarily based on military might, smashing rivals and incorporating scattered remnants into their own army, with a policy of join/ die or be enslaved. Their primary weapon is a short stabbing spear. It is deadly and easy to thrust. Another tactic that the military rely on is extremely fast foot soldiers running head first into battle, with smaller branches coming from the sides in a bullhorn tactic.
+The Nsizwa military is renowned for its discipline, strategic prowess, and the spiritual empowerment of its warriors. Military training incorporates rituals to summon ancestral strength, reflecting the belief in the ancestors' presence and guidance in combat. Regiments are organized by age groups and led by distinguished warriors. The Nsizwa hegemony is primarily based on military might, smashing rivals and incorporating scattered remnants into their own army, with a policy of join/ die or be enslaved. Their primary weapon is a short stabbing spear. It is deadly and easy to thrust. Another tactic that the military rely on is extremely fast foot soldiers called Impi, running head first into battle, with smaller branches coming from the sides in a bullhorn tactic.
 
 ### [[Judicial System]]
 
 Justice within the Nsizwa emphasizes restoration and communal harmony, with elders and chiefs mediating disputes. Severe transgressions are addressed through restitution, exile, or more severe forms of punishment such as being locked inside a hut with hungry jackals or hyenas until they are devoured and other grim and harsh punishments of death.
 
-### [[GameLore/Lore/Human Races/The Pagan Cultures/The Nsizwa/Religious Beliefs and Practices]]
+### [[Religious Beliefs and Practices]]
 
 Ancestor worship is central to the Nsizwa's spirituality, with rituals to honor and invoke ancestors for guidance, protection, and strength. The reverence for The Fury and The Sovereign integrates these Idols into a broader spiritual practice that includes gaining power via sacrifices to the ancestors in ancestral realm and the ingestion of muti, a herbal psychoactive that allows for the communion with the ancestors and to receive their strength for combat.
 
