@@ -62,8 +62,8 @@ The terms of his service are unique: for every mission that aligns with the virt
 
 Sir Aldric's journey from orphan to knight, from disgrace to redemption, encapsulates the complex interplay of fate, choice, and the quest for forgiveness. Within the Debtor's Corp, he finds a new battlefield where his skills, both martial and magical, can serve a greater good. Yet, his deepest battle is within, fighting against the shadows of his past to reclaim his honor and forge a new destiny.
 
-
-### Character Expansion: Emeric the Reluctant Bandit
+---
+### Emeric the Reluctant Bandit
 
 **Emeric**, once a notorious highwayman of the **Archiducatus Aquilonis**, led a life shadowed by the thrill of the heist and the clink of stolen gold. Known for his dexterity with both dagger and gunpowder shot pistol, Emeric's name became whispered in fear along the mountain paths, a ghost in the fog for those wealthy enough to attract his attention. Yet, beneath the mask of the bandit, Emeric operated with a code: theft over death, unless cornered. This principle guided his hand, sparing those he robbed from harm, a small mercy in the ruthless world he navigated.
 
@@ -93,8 +93,8 @@ In the Debtor's Corp, Emeric finds a new identity, one forged in the pursuit of 
 
 Emeric's journey from a highwayman haunted by guilt to a member of the Debtor's Corp seeking redemption encapsulates the transformative power of remorse and the relentless pursuit of a second chance. In the shadowy world of the Corp, Emeric battles not just external foes but the internal specter of his past, striving to prove that even those who have faltered can find a path back to the light.
 
-
-### Character Creation: Zara the Elemental Warlock
+---
+### Zara the Elemental Warlock
 
 **Background:**
 
@@ -122,8 +122,8 @@ In the Corp, Zara's destructive capabilities find a new purpose. She becomes a k
 
 Zara's integration into the Debtor's Corp highlights the complex nature of power and responsibility. Her story explores the theme of redemption through service, as she uses her formidable warlock abilities not for personal gain but for the protection and aid of others. Within the ranks of the Corp, Zara finds a semblance of atonement, her elemental magic serving as both a weapon against darkness and a tool for her own liberation from the chains of debt and manipulation.
 
-
-### Character Creation: Zafir, The Bound Chainmaster
+---
+### Zafir, The Bound Chainmaster
 
 **Background:**
 
@@ -161,8 +161,8 @@ Zafir's induction into the Debtor's Corp marked a new chapter in his life, one o
 
 Zafir's story is a tale of ambition ensnared by greater ambition, of power bound by the very contracts that granted it. In the Debtor's Corp, he walks a fine line between servitude and the pursuit of personal agency, his every action shadowed by the chains of his past decisions. Yet, even in chains, Zafir remains a formidable force, a Chainmaster biding his time, waiting for the moment he can turn the tables on those who would use him as their weapon.
 
-
-### Character Creation: Joran, The Wolf Skinwalker
+---
+### Joran, The Wolf Skinwalker
 
 **Background:**
 
@@ -198,8 +198,8 @@ In the Debtor's Corp, Joran finds himself in a strange land, fighting battles fa
 
 Joran's story is a poignant tale of sacrifice, duty, and the struggle for autonomy against the backdrop of mystical bonds and the machinations of power. As a wolf skinwalker of the Ättar, his journey through the ranks of the Debtor's Corp speaks to the resilience of the human spirit and the lengths to which one will go to protect home and heritage, even when faced with the erosion of self. In the Corp, he is a symbol of fierce loyalty and the haunting cost of power, a warrior caught between worlds, fighting for a freedom that seems as elusive as the moon's embrace.
 
-
-### Character Creation: Einar, The Exiled Ranger
+---
+### Einar, The Exiled Ranger
 
 **Background:**
 
@@ -231,7 +231,8 @@ Within the ranks of the Debtor's Corp, Einar finds a semblance of the camaraderi
 
 Einar's tale is one of conflict and duality, a man torn between his past and his present, his sacred oaths to the land, and the pragmatic bonds of debt that now chain him. In the shadows of the great forests of **Ducatus Altus Silvarum**, he walks a thin line, a guardian still at heart, serving new masters yet never forgetting the call of the ancient woods. His story within the Debtor's Corp is a testament to the resilience of the human spirit and the enduring power of faith, even in the face of exile and loss.
 
-### Character Creation: Valtor, The Ensnared Alchemist
+---
+### Valtor, The Ensnared Alchemist
 
 **Background:**
 
@@ -259,6 +260,7 @@ With no way to repay his debt and his work now property of the Fraternitas, Valt
 
 Valtor's story is a cautionary tale about the perils of naivety in the face of ambition and the lengths to which the powerful will go to harness skills they covet. In the Debtor's Corp, he walks the fine line between servitude and the pursuit of personal redemption, his alchemical talents now serving the needs of many rather than the greed of the few. Each mission with the Corp brings him closer to understanding the true value of his gifts, even as he plots to reclaim his freedom and legacy from the clutches of the Fraternitas.
 
+---
 ### Gideon: The Enigmatic Guardian
 
 **Early Life and Induction into the Fraternitas:**
@@ -289,6 +291,7 @@ The cold war Gideon plays with his fellow Fraternitas founders spans continents 
 
 Gideon's character is a complex tapestry of warrior, strategist, and guardian. His deep ties to the Jirahar culture, combined with the mystical enhancements and the burdens they bring, paint a picture of a man caught between worlds. His actions within the Debtor's Corp, while serving the immediate goals of the Fraternitas, are also steps in a personal quest for power, redemption, and ultimately, a legacy that will endure beyond the sands of time. As Festungshalt braces against the shadows, Gideon moves among them, a specter of the past seeking to forge the future in his image.
 
+---
 ### Thorn the Exiled Bard: A Tapestry of Music and Shadows
 
 #### Background and Exile
@@ -313,7 +316,7 @@ Thorn the Exiled Bard is a character of contrasts: a gifted artist turned spy, a
 
 ---
 
-Thorn's character offers rich narrative possibilities, exploring themes of artistry versus pragmatism, the cost of truth, and the redemption that lies just beyond reach. If you'd like to delve into specific adventures, relationships, or further develop Thorn's arc, I'm here to assist!
+
 
 
 
