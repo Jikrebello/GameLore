@@ -5,7 +5,7 @@
 
 
 #### Focus and Operations
-- **Establishment of Facilities:** Specialize in setting up and managing hospitals, hospices, and safe houses along key pilgrimage routes and in strategic locations throughout the empire. These facilities provide medical care, shelter, and spiritual guidance to travelers, pilgrims, and local communities.
+- **Establishment of Facilities:** Specialize in setting up and managing hospices and safe houses along key pilgrimage routes and in strategic locations throughout the empire. These facilities provide medical care, shelter, and spiritual guidance to travelers, pilgrims, and local communities.
 - **Route Protection:** Actively patrol and secure pilgrimage routes, ensuring safe passage for travelers. They often work to clear routes of dangers, whether they be bandits, wild beasts, or other threats.
 
 #### Divine Magic and Capabilities

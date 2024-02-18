@@ -15,15 +15,6 @@
 - Seen as the compassionate arm of the church, balancing their martial skills with a strong dedication to healing and caring for the sick and needy.
 - Establish and maintain field hospitals and sanatoriums in crisis areas, often on the frontlines or in remote, underserved regions.
 
-### [[Clericus Imperium]] (Imperial Clergy)
-
-#### Role and Influence:
-- Responsible for the administrative and spiritual governance of the church.
-- Involved in education, social services, and political advisory roles.
-
-#### Focus:
-- Manages the broader network of church-run institutions, including schools, universities, permanent hospitals, orphanages, and homes for veterans.
-
 ### Synergy and Collaboration
 
 #### Joint Operations:
