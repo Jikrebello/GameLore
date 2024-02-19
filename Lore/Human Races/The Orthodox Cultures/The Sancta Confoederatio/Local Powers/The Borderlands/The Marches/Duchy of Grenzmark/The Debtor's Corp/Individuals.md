@@ -1,8 +1,3 @@
-#### Lady Elara: The Noble Rogue
-
-Lady Elara was once the toast of high society, married to a charismatic lord who gambled away their fortune and left her with a mountain of debt. Refusing to watch her ancestral home crumble, Elara turned to the only avenue left open to her: reclaiming lost treasures and exploring forbidden ruins. Her slender frame and noble grace mask a cunning mind and lethal agility, making her a formidable rogue in the shadows. Her expertise with a rapier is unmatched, a skill honed from a life once filled with balls and duels of honor, now serving her in the deadly dance of close combat.
-
-- **Journey within the Corp**: Elara's transition from a life of luxury to one of danger and uncertainty is fraught with challenges. Yet, she finds a strange freedom in her new role, using her skills and intelligence to navigate the perils she faces and slowly repay the debts of her past.
 ### Lady Elara: From Aristocracy to Adventurer
 
 #### Early Life and Struggles
