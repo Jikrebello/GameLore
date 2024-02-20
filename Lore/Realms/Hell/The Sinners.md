@@ -1,5 +1,3 @@
-Expanding on the Sinners and Lesser Sinners introduces a richly dark and complex dimension to the cosmic struggle between good and evil, showcasing the nuanced fate of those who fall from grace and the diverse forms their corruption can take. This detailed exploration reveals the intricacies of their transformation, their roles in the ongoing battle against the forces of good, and the unique characteristics that define them.
-
 ### The Sinners: The Transformed and the Damned
 
 - **Transformation into Dragons**: Sinners, through their defiance and malevolence, undergo a profound transformation, becoming monstrous entities that serve the Adversary. These beings, resembling colossal eel-like creatures made of mud, symbolize the depth of their fall from grace. Unlike traditional dragons, these creatures are more akin to creatures of the deep, embodying aspects of decay, darkness, and the abyss.

@@ -14,17 +14,17 @@ The **Debtor's Corp** undertakes a wide array of missions that not only highligh
 
 - **Objective**: Delve into the ruins dotting the Duchy of Grenzmark to uncover artifacts of power, historical records, or to neutralize threats sealed within these ancient sites.
   
-- **Challenges**: Besides the physical dangers of traps and guardians, these missions confront the Corp with ethical quandaries over disturbing sacred sites or unleashing potentially dangerous magics into the world.
+- **Challenges**: Besides the physical dangers of traps and guardians, these missions confront the Corp with ethical quandaries over unleashing potentially dangerous magics into the world.
 
-- **Narrative Opportunities**: Highlighting the tension between the pursuit of knowledge or power and the respect for history and culture. Missions can reveal personal connections members might have to the ruins or the civilizations they belonged to, adding layers of personal stakes to the exploration.
+- **Narrative Opportunities**: 
 
 #### Monster Suppression
 
 - **Objective**: Engage and neutralize monstrous creatures stirred into activity by external threats, protecting the Duchy's borders and its people.
   
-- **Challenges**: These confrontations test the Corp's combat prowess, adaptability, and courage. The missions may also raise questions about the nature of these creatures—are they merely beasts, or do they possess their own form of culture and society that the Corp is destroying?
+- **Challenges**: These confrontations test the Corp's combat prowess, adaptability, and courage. 
 
-- **Narrative Opportunities**: Developing bonds between the Corp members through shared battles and survival, while also exploring themes of environmental and ecological balance. Encounters with sentient creatures could force members to reconsider their mission objectives and the real meaning of "monsters."
+- **Narrative Opportunities**: Developing bonds between the Corp members through shared battles and survival.
 
 #### Seasonal Settlement Protection
 
