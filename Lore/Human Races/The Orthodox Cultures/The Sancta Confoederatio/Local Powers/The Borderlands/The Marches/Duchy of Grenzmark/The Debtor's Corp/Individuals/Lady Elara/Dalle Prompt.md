@@ -12,3 +12,4 @@ Create an image of Lady Elara, a character from a story set in a fantasy world. 
 This image should capture the essence of Lady Elara, showcasing her as a figure caught between two worlds - the refinement of her noble past and the rugged reality of her life as an adventurer.
 
 Lady Elara, having navigated the tumultuous transition from highborn lady to resourceful adventurer, embodies a complex blend of attitudes, beliefs, and idiosyncrasies that make her a captivating and multifaceted character.
+
