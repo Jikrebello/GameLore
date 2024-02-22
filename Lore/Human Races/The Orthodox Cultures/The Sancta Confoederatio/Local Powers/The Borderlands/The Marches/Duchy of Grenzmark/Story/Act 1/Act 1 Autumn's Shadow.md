@@ -1,6 +1,6 @@
 #### Setup
 
-- **Arrival and Integration**: The protagonist, introduced as a recent recruit with exceptional skills but a guarded past, arrives in Festungshalt during the bustling preparations for winter. Their first days are a blend of training, getting to know their fellow Corps members, and adjusting to the disciplined yet enigmatic lifestyle of the Debtor's Corps. Characters introduced include a seasoned commander with a stern but fair demeanor, a jovial giant with unmatched strength, a stealthy scout with a knack for navigating the wilderness, and a scholarly mage intrigued by the arcane.
+- **Arrival and Integration**: The protagonist, introduced as a recent recruit with exceptional skills but a guarded past, arrives in Festungshalt during the bustling preparations for winter. Their first days are a blend of basics training, getting to know their fellow Corps members, and adjusting to the disciplined yet enigmatic lifestyle of the Debtor's Corps. Characters introduced include a seasoned commander with a stern but fair demeanor, a jovial giant with unmatched strength, a stealthy scout with a knack for navigating the wilderness, and a scholarly mage intrigued by the arcane.
   
 - **The City of Festungshalt**: Descriptions of Festungshalt emphasize its robust fortifications, the lively Market Ring preparing for winter, and the strategic importance of its location. The city serves as a beacon of civilization on the edge of the wilderness, its people a mix of rugged individualism and communal support.
 

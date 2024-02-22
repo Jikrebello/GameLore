@@ -379,7 +379,7 @@ Bayar's story becomes a testament to resilience, adaptability, and the enduring 
 Bayar's journey with the Debtor's Corp is one of redemption, as he seeks to atone for the unintended consequences of his actions and to understand the broader conflicts that now shape his destiny. His story is a compelling exploration of the clash between traditional nomadic values and the complex, often murky world of debt and obligation. As Bayar navigates this new life, he holds onto the hope of reclaiming his freedom and reuniting with his tribe, bringing with him the lessons and strengths gained from his time among the Debtors.
 
 ---
-### Lucan: The Vineyard's Misfit
+### Lucan The Vineyard's Misfit
 
 #### Background and Personality
 **Lucan** hails from a family with generations rooted in winemaking, known for a modest but proud vineyard that has produced quality wines for the local market. Unlike his kin, who possess an innate grace and diplomacy, Lucan has always been more straightforward and pragmatic, often finding the elaborate social dances of his homeland perplexing and unnecessary.
