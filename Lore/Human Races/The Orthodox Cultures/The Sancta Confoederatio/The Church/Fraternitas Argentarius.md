@@ -15,8 +15,6 @@
 - **Allegations of Corruption:** Faces accusations of engaging in secretive and possibly unethical practices, including manipulation of markets or exploitation of conflicts for financial gain.
 - **Power Struggles:** Potentially involved in power struggles within the empire, using wealth and financial leverage to influence political outcomes.
 
-I'm glad you like the development so far! Let's delve into the economic workings of the church and find a more suitable term for your empire-like structure.
-
 ### Economics of the Church
 
 #### Sources of Income

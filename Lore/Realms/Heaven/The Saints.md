@@ -1,5 +1,3 @@
-Exploring the Saints and Lesser Saints in greater detail reveals a rich tapestry of divine intervention, personal sacrifice, and the ongoing battle between good and evil, all played out beyond the immediate perception of the mortal realm. This detailed examination allows us to understand not just their roles but also the unique characteristics that define them and their place within the cosmic struggle.
-
 ### The Saints: Divine Intermediaries and Protectors
 
 - **Individuality and Transformation**: Each Saint, having achieved a high level of spiritual purity, undergoes a transformation that reflects their core essence or the divine aspect they embody. While they all share the avian motif of Phoenixes, signifying their rebirth and divine fire, individual Saints may bear features reminiscent of other majestic or significant birds, such as owls, eagles, or hawks, symbolizing wisdom, leadership, or fierce protection. This individuality extends to their missions and the aspects of human endeavor they patronize, from scholars and healers to warriors and peacemakers.

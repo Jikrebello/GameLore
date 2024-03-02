@@ -1,6 +1,6 @@
 ### Overview of The Duchy of Grenzmark
 
-The Duchy of Grenzmark is a frontier realm within the Sancta Confoederatio, marked by its rugged landscapes, rich natural resources, and the indomitable spirit of its people. It stands as a testament to human resilience and the constant battle between civilization and the untamed wilderness.
+The Duchy of Grenzmark is a frontier realm within the Sancta Confoederatio's Marchionatus Perditorum region, marked by its rugged landscapes, rich natural resources, and the indomitable spirit of its people. It stands as a testament to human resilience and the constant battle between civilization and the untamed wilderness.
 
 #### Geography and Features
 

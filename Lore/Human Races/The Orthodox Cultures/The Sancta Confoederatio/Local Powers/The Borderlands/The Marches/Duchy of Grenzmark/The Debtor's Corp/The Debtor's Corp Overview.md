@@ -1,6 +1,6 @@
 ### Overview of the Debtor's Corp
 
-The **Debtor's Corp** is an elite mercenary group operating under the guise of an independent military contractor, yet it is secretly funded and directed by the **Fraternitas Argentarius**, the primary banking institution within Festungshalt. This arrangement allows the Fraternitas to exert influence and maintain a degree of control over the city's and duchy's more covert operations without direct involvement.
+The **Debtor's Corp** is an elite mercenary group operating under the guise of an independent military contractor, yet it is secretly funded and directed by the **Fraternitas Argentarius**, the primary banking institution within The Sancta Confoederatio, and by extension, Festungshalt. This arrangement allows the Fraternitas to exert influence and maintain a degree of control over the city's and duchy's more covert operations without direct involvement.
 
 #### Composition and Recruitment
 

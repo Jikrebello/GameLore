@@ -30,7 +30,7 @@
 
 ### [[The Sinners]]
 
-- Souls who have significantly lowered their vibration through acts of evil or defiance against The Lord's will. In Hell, they undergo transformation into beings that serve the Adversary, losing much of their former selves in the process.
+- Souls who have significantly lowered their vibration through acts of evil or defiance against The Lord's will. In Hell, they undergo transformation into Sinner Dragons (Eel like beings of mud) demi gods that serve the Adversary, losing much of their former selves in the process.
 
 ### The Lesser Sinners
 

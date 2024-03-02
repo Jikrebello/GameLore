@@ -1,4 +1,4 @@
-Gideon: The Enigmatic Guardian
+Gideon
 
 **Early Life and Induction into the Fraternitas:**
 
@@ -30,6 +30,9 @@ Gideon's character is a complex tapestry of warrior, strategist, and guardian. H
 
 For Gideon, the Enigmatic Guardian, weaving his personal story into the broader narrative of the Duchy of Grenzmark and the Debtor's Corps requires a deep dive into his complex motivations, his ancient origins, and the shadowy game of power he plays. His journey through the seasonal arc of Grenzmark not only highlights his role within the Corp but also his personal quest that intersects with the fate of the Duchy itself.
 
+
+
+
 ### Act 1: The Guardian's Gambit
 
 #### Setup
@@ -48,10 +51,10 @@ For Gideon, the Enigmatic Guardian, weaving his personal story into the broader 
 
 #### Setup
 - **The Siege Begins**: With Festungshalt under siege, Gideon's leadership becomes crucial to the city's defense. His squad is tasked with sabotage and counter-intelligence, facing the Grobi horde and the supernatural threats awakened by the artifact.
-- **The Drake and the Artifact**: The Emerald Drake's rampage and its ties to the artifact's dark energies draw Gideon into direct confrontation. His understanding of the artifact's power and its connection to the Adversary guides the Corps' efforts to subdue the creature without unleashing further chaos.
+- **The Drake**: The Emerald Drake's rampage and the chaos it brings forces Gideon into direct confrontation. 
 
 #### Conflict
-- **Behind Enemy Lines**: A daring mission to dismantle the Grobi's siege engines reveals the presence of a warlock attempting to channel the artifact's power. Gideon's confrontation with the warlock, underpinned by his own arcane knowledge, highlights his dual role as protector and manipulator.
+- **Behind Enemy Lines**: A daring mission to dismantle the Grobi's siege engines reveals the presence of a warlock powered by magics granted by the Lesser Sinner. Gideon's confrontation with the warlock, underpinned by his own arcane knowledge, highlights his dual role as protector and manipulator. This also reveals the existence of the Lesser Sinner and its role it played in directing the Grobi in act 1 and also now in act 2 with the siege.
 - **Sacrifices and Secrets**: The climax of the siege forces Gideon to reveal aspects of his powers, straining his relationships within the Corps. His sacrifices to protect Festungshalt hint at his personal stakes in the artifact's fate and the ancient rivalry driving his actions.
 
 #### Resolution
@@ -60,7 +63,7 @@ For Gideon, the Enigmatic Guardian, weaving his personal story into the broader 
 ### Act 3: Spring's Reckoning and the Guardian's Legacy
 
 #### Setup
-- **The Dungeon's Depths**: Spring's thaw leads Gideon and his squad into the heart of the ancient dungeons, following the trail of undead forces to their source. His knowledge of the Adversary and the artifact becomes crucial as they uncover a plot to awaken a Sinner in the form of a Dragon.
+- **The Dungeon's Depths**:  After the artifact is stolen/ intercepted by the Lesser Sinner after a failed attempt to smuggle it out during Gideons fight with the Emerald Drake, Spring's thaw leads Gideon and his squad into the heart of the ancient dungeons, following the trail of undead forces to their source. His knowledge of the Adversary and the artifact becomes crucial as they uncover a plot to awaken a Sinner in the form of a Dragon.
 - **Confrontation with Destiny**: The final battle against the Lesser Sinners orchestrating the undead uprising tests Gideon's loyalties and his commitment to Festungshalt. The revelation of his past and his role in the Fraternitas's machinations confront him with the choice between power and redemption.
 
 #### Climax
